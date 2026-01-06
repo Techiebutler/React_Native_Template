@@ -18,7 +18,7 @@ A modern, scalable, and CLI-enhanced React Native starter — optimized for spee
 #### 📦 From GitHub:
 
 ```bash
-npx @react-native-community/cli@latest init YourAppName --template  https://github.com/VatsalPatadiya/react-native-template --skip-install
+npx @react-native-community/cli@latest init YourAppName --template  https://github.com/Techiebutler/React_Native_Template --skip-install
 ```
 
 ---
